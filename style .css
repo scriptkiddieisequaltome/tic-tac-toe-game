@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 15px;
+}
+body{
+    background-color: lightgrey;
+}
+td{
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+}
+table{
+    margin: 5px auto;
+}
+.first{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    text-align: center;
+}
+.second{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    text-align: center;
+}
+.expalination{
+    text-align: center;
+    font-size: 50px;
+}
+#row1,#row3,#row7,#row9{
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 200px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    font: 20px;
+    letter-spacing: 6px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 800px;
+    margin-top: 10px;
+}
